@@ -1,3 +1,11 @@
-body{
-    background-color: rgb(255, 0, 0);
+.cabecalho {
+    background-color: rgb(229, 162, 179);
+    color: rgb(18, 102, 56);
+    text-align: center;
+    max-width: 800px;
+}
+
+.conteudo-principal{
+    background-color: rgb(88, 0, 88);
+    color:rgb(114, 175, 125)
 }
